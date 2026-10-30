@@ -35,3 +35,6 @@ This repository brings together graduate coursework and exercises involving data
 - Add a file-by-file project index with dataset, question, methods, and findings.
 - Include reproducible setup instructions and a `requirements.txt` once dependencies are verified.
 - Add screenshots or plots based on actual notebook output.
+
+## Additional coursework context
+- [Programming and debugging reflection](docs/analytical-problem-solving.md)
