@@ -21,3 +21,17 @@ Some files originated from coursework exercises. The repository is maintained as
 **Heenu Kumari**  
 M.S. Business Analytics, Santa Clara University  
 [LinkedIn](https://www.linkedin.com/in/heenu-kumari-9b062a3b4) | [GitHub](https://github.com/hkumari-a11y)
+
+## What to look for
+This repository brings together graduate coursework and exercises involving data preparation, exploratory analysis, and visualization in Python. Review the actual notebooks or scripts for the specific methods used; the topics listed above are portfolio themes, not claims that every technique appears in every file.
+
+## Suggested review workflow
+1. Open a notebook or Python script from the repository.
+2. Identify the input data and preprocessing steps.
+3. Review the analysis and any charts or outputs.
+4. Re-run the work in an appropriate Python environment when dependencies and data are available.
+
+## Next improvements
+- Add a file-by-file project index with dataset, question, methods, and findings.
+- Include reproducible setup instructions and a `requirements.txt` once dependencies are verified.
+- Add screenshots or plots based on actual notebook output.
