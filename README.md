@@ -38,3 +38,6 @@ This repository brings together graduate coursework and exercises involving data
 
 ## Additional coursework context
 - [Programming and debugging reflection](docs/analytical-problem-solving.md)
+
+## Additional hands-on project
+- [School Finance KPI Validation — Python](projects/school-finance-kpi-validation/README.md): reproducible KPI calculation with fictional data.
