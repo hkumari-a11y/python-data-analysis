@@ -41,3 +41,5 @@ This repository brings together graduate coursework and exercises involving data
 
 ## Additional hands-on project
 - [School Finance KPI Validation — Python](projects/school-finance-kpi-validation/README.md): reproducible KPI calculation with fictional data.
+
+- [Data Quality Audit](projects/data-quality-audit/README.md): Python duplicate, missing-ID, and record-match checks.
